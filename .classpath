@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="build/libs/filmes-be-spring-0.1.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/filmes-be-spring-0.2.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/filmes-be-spring-0.3.0.jar"/>
+	<classpathentry kind="lib" path="build/libs/filmes-be-spring-0.4.0.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="build/classes/java/main"/>
+</classpath>
